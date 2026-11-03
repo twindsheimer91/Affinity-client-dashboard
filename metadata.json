@@ -1,0 +1,8 @@
+{
+  "name": "Affinity Client Dashboard ",
+  "description": "An interactive full-spectrum energetic, astrological, human design, and somatic biomarkers analyzer for point-zero cellular homeostasis alignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

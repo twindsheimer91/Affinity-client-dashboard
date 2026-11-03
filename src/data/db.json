@@ -1,0 +1,1737 @@
+{
+  "users": [
+    {
+      "id": "manager-master-affinity",
+      "email": "affinitylifestyleconsulting@gmail.com",
+      "passwordHash": "01e6feea494b13be860af7abdf063d043990dd01904b330ae4d3ee7a8c6a0ace",
+      "role": "manager",
+      "isGuest": false,
+      "token": "5f8126e0fa03914365042b0e10cd9af9b0d998718dd27ede197283a81263174f",
+      "profile": {
+        "firstName": "Affinity",
+        "lastName": "Manager",
+        "dateOfBirth": "1991-01-01",
+        "timeOfBirth": "12:00",
+        "placeOfBirth": "United States",
+        "computed": {
+          "numerology": {
+            "lifePath": 4,
+            "expression": 6,
+            "soulUrge": 1,
+            "personality": 5,
+            "birthday": 1
+          },
+          "astrology": {
+            "sunSign": "Capricorn",
+            "risingSign": "Aries",
+            "moonSign": "Cancer",
+            "dominantPlanet": "Mars",
+            "northNode": "Capricorn",
+            "chineseZodiac": "Goat",
+            "chineseElement": "Metal"
+          },
+          "humanDesign": {
+            "type": "Projector",
+            "authority": "Splenic",
+            "profile": "2/4",
+            "definitionType": "Split Definition",
+            "channels": [
+              "61-24 Awareness",
+              "11-56 Curiosity",
+              "8-1 Inspiration",
+              "18-58 Judgment"
+            ],
+            "personalityGates": [
+              38,
+              39,
+              62,
+              60,
+              56,
+              11,
+              61,
+              8,
+              33,
+              43
+            ],
+            "designGates": [
+              48,
+              21,
+              24,
+              41,
+              31,
+              46,
+              18,
+              35,
+              33,
+              54,
+              58,
+              38,
+              1
+            ],
+            "personalityPositions": {
+              "Sun": {
+                "planet": "Sun",
+                "gate": 38,
+                "line": 2,
+                "color": 4,
+                "tone": 1,
+                "base": 1,
+                "longitude": 280.91038427844387
+              },
+              "Earth": {
+                "planet": "Earth",
+                "gate": 39,
+                "line": 2,
+                "color": 4,
+                "tone": 1,
+                "base": 1,
+                "longitude": 100.91038427844387
+              },
+              "Moon": {
+                "planet": "Moon",
+                "gate": 62,
+                "line": 6,
+                "color": 2,
+                "tone": 3,
+                "base": 3,
+                "longitude": 115.65819437131137
+              },
+              "North Node": {
+                "planet": "North Node",
+                "gate": 60,
+                "line": 3,
+                "color": 6,
+                "tone": 3,
+                "base": 1,
+                "longitude": 299.0858937938316
+              },
+              "South Node": {
+                "planet": "South Node",
+                "gate": 56,
+                "line": 3,
+                "color": 6,
+                "tone": 3,
+                "base": 1,
+                "longitude": 119.08589379383159
+              },
+              "Mercury": {
+                "planet": "Mercury",
+                "gate": 11,
+                "line": 2,
+                "color": 6,
+                "tone": 1,
+                "base": 3,
+                "longitude": 264.35569235533376
+              },
+              "Venus": {
+                "planet": "Venus",
+                "gate": 61,
+                "line": 6,
+                "color": 1,
+                "tone": 3,
+                "base": 5,
+                "longitude": 295.5104277127525
+              },
+              "Mars": {
+                "planet": "Mars",
+                "gate": 8,
+                "line": 3,
+                "color": 3,
+                "tone": 1,
+                "base": 2,
+                "longitude": 56.695768608664594
+              },
+              "Jupiter": {
+                "planet": "Jupiter",
+                "gate": 33,
+                "line": 5,
+                "color": 3,
+                "tone": 2,
+                "base": 3,
+                "longitude": 131.72894039697366
+              },
+              "Saturn": {
+                "planet": "Saturn",
+                "gate": 61,
+                "line": 6,
+                "color": 2,
+                "tone": 4,
+                "base": 5,
+                "longitude": 295.69410624017905
+              },
+              "Uranus": {
+                "planet": "Uranus",
+                "gate": 38,
+                "line": 1,
+                "color": 2,
+                "tone": 5,
+                "base": 3,
+                "longitude": 279.7756928258659
+              },
+              "Neptune": {
+                "planet": "Neptune",
+                "gate": 38,
+                "line": 5,
+                "color": 6,
+                "tone": 5,
+                "base": 3,
+                "longitude": 284.1468989327627
+              },
+              "Pluto": {
+                "planet": "Pluto",
+                "gate": 43,
+                "line": 1,
+                "color": 5,
+                "tone": 6,
+                "base": 4,
+                "longitude": 229.65075830978913
+              }
+            },
+            "designPositions": {
+              "Sun": {
+                "planet": "Sun",
+                "gate": 48,
+                "line": 4,
+                "color": 4,
+                "tone": 5,
+                "base": 5,
+                "longitude": 192.9103842784093
+              },
+              "Earth": {
+                "planet": "Earth",
+                "gate": 21,
+                "line": 4,
+                "color": 4,
+                "tone": 5,
+                "base": 5,
+                "longitude": 12.91038427840931
+              },
+              "Moon": {
+                "planet": "Moon",
+                "gate": 24,
+                "line": 2,
+                "color": 5,
+                "tone": 4,
+                "base": 1,
+                "longitude": 39.27014893430868
+              },
+              "North Node": {
+                "planet": "North Node",
+                "gate": 41,
+                "line": 2,
+                "color": 5,
+                "tone": 6,
+                "base": 5,
+                "longitude": 303.7141207729462
+              },
+              "South Node": {
+                "planet": "South Node",
+                "gate": 31,
+                "line": 2,
+                "color": 5,
+                "tone": 6,
+                "base": 5,
+                "longitude": 123.71412077294622
+              },
+              "Mercury": {
+                "planet": "Mercury",
+                "gate": 46,
+                "line": 4,
+                "color": 1,
+                "tone": 6,
+                "base": 4,
+                "longitude": 181.21259234833656
+              },
+              "Venus": {
+                "planet": "Venus",
+                "gate": 18,
+                "line": 3,
+                "color": 2,
+                "tone": 5,
+                "base": 5,
+                "longitude": 186.03180041085443
+              },
+              "Mars": {
+                "planet": "Mars",
+                "gate": 35,
+                "line": 2,
+                "color": 5,
+                "tone": 6,
+                "base": 1,
+                "longitude": 73.0689568396104
+              },
+              "Jupiter": {
+                "planet": "Jupiter",
+                "gate": 33,
+                "line": 2,
+                "color": 3,
+                "tone": 3,
+                "base": 3,
+                "longitude": 128.93968996261344
+              },
+              "Saturn": {
+                "planet": "Saturn",
+                "gate": 54,
+                "line": 4,
+                "color": 6,
+                "tone": 5,
+                "base": 2,
+                "longitude": 288.83029909740753
+              },
+              "Uranus": {
+                "planet": "Uranus",
+                "gate": 58,
+                "line": 3,
+                "color": 1,
+                "tone": 2,
+                "base": 3,
+                "longitude": 275.78718081690386
+              },
+              "Neptune": {
+                "planet": "Neptune",
+                "gate": 38,
+                "line": 3,
+                "color": 3,
+                "tone": 6,
+                "base": 4,
+                "longitude": 281.8345992111906
+              },
+              "Pluto": {
+                "planet": "Pluto",
+                "gate": 1,
+                "line": 4,
+                "color": 2,
+                "tone": 6,
+                "base": 4,
+                "longitude": 226.3684788664151
+              }
+            },
+            "centers": {
+              "Head": {
+                "name": "Head",
+                "state": "defined",
+                "hangingGates": [
+                  61
+                ],
+                "definedChannels": [
+                  "61-24 Awareness"
+                ]
+              },
+              "Ajna": {
+                "name": "Ajna",
+                "state": "defined",
+                "hangingGates": [
+                  24,
+                  11,
+                  43
+                ],
+                "definedChannels": [
+                  "61-24 Awareness",
+                  "11-56 Curiosity"
+                ]
+              },
+              "Throat": {
+                "name": "Throat",
+                "state": "defined",
+                "hangingGates": [
+                  62,
+                  56,
+                  31,
+                  8,
+                  33,
+                  35
+                ],
+                "definedChannels": [
+                  "11-56 Curiosity",
+                  "8-1 Inspiration"
+                ]
+              },
+              "G": {
+                "name": "G",
+                "state": "defined",
+                "hangingGates": [
+                  1,
+                  46
+                ],
+                "definedChannels": [
+                  "8-1 Inspiration"
+                ]
+              },
+              "Ego": {
+                "name": "Ego",
+                "state": "undefined",
+                "hangingGates": [
+                  21
+                ],
+                "definedChannels": []
+              },
+              "Sacral": {
+                "name": "Sacral",
+                "state": "open",
+                "hangingGates": [],
+                "definedChannels": []
+              },
+              "Solar Plexus": {
+                "name": "Solar Plexus",
+                "state": "open",
+                "hangingGates": [],
+                "definedChannels": []
+              },
+              "Spleen": {
+                "name": "Spleen",
+                "state": "defined",
+                "hangingGates": [
+                  48,
+                  18
+                ],
+                "definedChannels": [
+                  "18-58 Judgment"
+                ]
+              },
+              "Root": {
+                "name": "Root",
+                "state": "defined",
+                "hangingGates": [
+                  60,
+                  39,
+                  41,
+                  58,
+                  38,
+                  54
+                ],
+                "definedChannels": [
+                  "18-58 Judgment"
+                ]
+              }
+            },
+            "definedCenters": [
+              "Head",
+              "Ajna",
+              "Throat",
+              "G",
+              "Spleen",
+              "Root"
+            ],
+            "undefinedCenters": [
+              "Ego",
+              "Sacral",
+              "Solar Plexus"
+            ]
+          },
+          "geneKeys": {
+            "lifesWork": {
+              "name": "Life's Work / Genius",
+              "keyNumber": 38,
+              "line": 2,
+              "sequence": "activation",
+              "description": "Your core creative expression, conscious gifts, and primary contribution to the world."
+            },
+            "evolution": {
+              "name": "Evolution",
+              "keyNumber": 39,
+              "line": 2,
+              "sequence": "activation",
+              "description": "Your greatest challenge, shadow trigger, and soil for spiritual growth and maturity."
+            },
+            "radiance": {
+              "name": "Radiance",
+              "keyNumber": 48,
+              "line": 4,
+              "sequence": "activation",
+              "description": "Your physical health, bodily vitality, aura radiance, and inner grounding."
+            },
+            "purpose": {
+              "name": "Purpose",
+              "keyNumber": 21,
+              "line": 4,
+              "sequence": "activation",
+              "description": "Your deep soul stability, ancestral frequency, and ultimate physical embodiment."
+            },
+            "attraction": {
+              "name": "Attraction",
+              "keyNumber": 24,
+              "line": 2,
+              "sequence": "venus",
+              "description": "The physical aura field that draws specific relationships, karmic ties, and lessons to you."
+            },
+            "iq": {
+              "name": "IQ (Mental Mind)",
+              "keyNumber": 61,
+              "line": 6,
+              "sequence": "venus",
+              "description": "Mental defensive strategies formed between ages 14-21 and how your mind learns surrender."
+            },
+            "eq": {
+              "name": "EQ (Emotional Mind)",
+              "keyNumber": 8,
+              "line": 3,
+              "sequence": "venus",
+              "description": "Emotional patterns and reactivity formed between ages 7-14 and your open-hearted presence."
+            },
+            "sq": {
+              "name": "SQ (Spiritual Mind)",
+              "keyNumber": 18,
+              "line": 3,
+              "sequence": "venus",
+              "description": "Core soul innocence formed during first 7 years of life and your link to the divine child."
+            },
+            "coreWound": {
+              "name": "Core Wound / Vocation",
+              "keyNumber": 35,
+              "line": 2,
+              "sequence": "venus",
+              "description": "The collective human wound you carry, which becomes your ultimate gift to humanity."
+            },
+            "vocation": {
+              "name": "Vocation",
+              "keyNumber": 35,
+              "line": 2,
+              "sequence": "pearl",
+              "description": "How your Core Wound turns into your unique service, vocation, and creative impact."
+            },
+            "culture": {
+              "name": "Culture",
+              "keyNumber": 33,
+              "line": 2,
+              "sequence": "pearl",
+              "description": "Your natural role in groups, community alignment, and social network synergy."
+            },
+            "brand": {
+              "name": "Brand / Expression",
+              "keyNumber": 38,
+              "line": 2,
+              "sequence": "pearl",
+              "description": "The authentic frequency you broadcast outwardly that attracts alignment and resources."
+            },
+            "pearl": {
+              "name": "The Pearl",
+              "keyNumber": 33,
+              "line": 5,
+              "sequence": "pearl",
+              "description": "The harvest of your soul journey, true prosperity, and effortless flow of abundance."
+            }
+          },
+          "aura": {
+            "color": "Green",
+            "hex": "#10b981",
+            "frequency": 639,
+            "consciousnessScale": 339
+          }
+        }
+      },
+      "ambiHistory": [],
+      "mbtiHistory": [],
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "manager-master-affinity",
+      "email": "affinitylifestyleconsulting@gmail.com",
+      "passwordHash": "01e6feea494b13be860af7abdf063d043990dd01904b330ae4d3ee7a8c6a0ace",
+      "role": "user",
+      "isGuest": false,
+      "token": "da120fd5ab9be92e6866fdbd010e6ce63dbd76b53b7363afcbd6dd123108cd70",
+      "profile": {
+        "firstName": "Affinity",
+        "lastName": "Manager",
+        "dateOfBirth": "1988-08-08",
+        "timeOfBirth": "12:00",
+        "placeOfBirth": "Geneva, Switzerland",
+        "computed": {
+          "numerology": {
+            "lifePath": 6,
+            "expression": 5,
+            "soulUrge": 8,
+            "personality": 6,
+            "birthday": 8
+          },
+          "astrology": {
+            "sunSign": "Leo",
+            "risingSign": "Scorpio",
+            "moonSign": "Cancer",
+            "dominantPlanet": "Pluto",
+            "northNode": "Pisces",
+            "chineseZodiac": "Dragon",
+            "chineseElement": "Earth"
+          },
+          "humanDesign": {
+            "type": "Manifestor",
+            "authority": "Solar Plexus",
+            "profile": "4/6",
+            "definitionType": "Split Definition",
+            "channels": [
+              "64-47 Abstraction",
+              "63-4 Logic",
+              "20-10 Awakening",
+              "12-22 Openness"
+            ],
+            "personalityGates": [
+              7,
+              13,
+              52,
+              63,
+              64,
+              4,
+              15,
+              17,
+              20,
+              11,
+              58,
+              44
+            ],
+            "designGates": [
+              2,
+              1,
+              13,
+              22,
+              47,
+              16,
+              12,
+              49,
+              10,
+              38,
+              44
+            ],
+            "personalityPositions": {
+              "Sun": {
+                "planet": "Sun",
+                "gate": 7,
+                "line": 4,
+                "color": 3,
+                "tone": 3,
+                "base": 1,
+                "longitude": 136.43049589427255
+              },
+              "Earth": {
+                "planet": "Earth",
+                "gate": 13,
+                "line": 4,
+                "color": 3,
+                "tone": 3,
+                "base": 1,
+                "longitude": 316.43049589427255
+              },
+              "Moon": {
+                "planet": "Moon",
+                "gate": 52,
+                "line": 1,
+                "color": 6,
+                "tone": 2,
+                "base": 4,
+                "longitude": 94.7025544010337
+              },
+              "North Node": {
+                "planet": "North Node",
+                "gate": 63,
+                "line": 5,
+                "color": 3,
+                "tone": 2,
+                "base": 3,
+                "longitude": 345.4755982058091
+              },
+              "South Node": {
+                "planet": "South Node",
+                "gate": 64,
+                "line": 5,
+                "color": 3,
+                "tone": 2,
+                "base": 3,
+                "longitude": 165.4755982058091
+              },
+              "Mercury": {
+                "planet": "Mercury",
+                "gate": 4,
+                "line": 4,
+                "color": 6,
+                "tone": 2,
+                "base": 5,
+                "longitude": 142.52057292563245
+              },
+              "Venus": {
+                "planet": "Venus",
+                "gate": 15,
+                "line": 3,
+                "color": 3,
+                "tone": 6,
+                "base": 5,
+                "longitude": 90.59076288444476
+              },
+              "Mars": {
+                "planet": "Mars",
+                "gate": 17,
+                "line": 5,
+                "color": 3,
+                "tone": 6,
+                "base": 2,
+                "longitude": 8.073002033414753
+              },
+              "Jupiter": {
+                "planet": "Jupiter",
+                "gate": 20,
+                "line": 3,
+                "color": 4,
+                "tone": 2,
+                "base": 1,
+                "longitude": 62.49654549255433
+              },
+              "Saturn": {
+                "planet": "Saturn",
+                "gate": 11,
+                "line": 5,
+                "color": 1,
+                "tone": 5,
+                "base": 4,
+                "longitude": 266.49673952906244
+              },
+              "Uranus": {
+                "planet": "Uranus",
+                "gate": 11,
+                "line": 6,
+                "color": 1,
+                "tone": 2,
+                "base": 4,
+                "longitude": 267.35556509946775
+              },
+              "Neptune": {
+                "planet": "Neptune",
+                "gate": 58,
+                "line": 5,
+                "color": 2,
+                "tone": 3,
+                "base": 3,
+                "longitude": 277.84864060746395
+              },
+              "Pluto": {
+                "planet": "Pluto",
+                "gate": 44,
+                "line": 3,
+                "color": 3,
+                "tone": 4,
+                "base": 1,
+                "longitude": 219.8917221103427
+              }
+            },
+            "designPositions": {
+              "Sun": {
+                "planet": "Sun",
+                "gate": 2,
+                "line": 6,
+                "color": 4,
+                "tone": 1,
+                "base": 5,
+                "longitude": 48.43049590400324
+              },
+              "Earth": {
+                "planet": "Earth",
+                "gate": 1,
+                "line": 6,
+                "color": 4,
+                "tone": 1,
+                "base": 5,
+                "longitude": 228.43049590400324
+              },
+              "Moon": {
+                "planet": "Moon",
+                "gate": 13,
+                "line": 3,
+                "color": 2,
+                "tone": 5,
+                "base": 3,
+                "longitude": 315.39686895832006
+              },
+              "North Node": {
+                "planet": "North Node",
+                "gate": 22,
+                "line": 4,
+                "color": 4,
+                "tone": 3,
+                "base": 3,
+                "longitude": 350.34524006943616
+              },
+              "South Node": {
+                "planet": "South Node",
+                "gate": 47,
+                "line": 4,
+                "color": 4,
+                "tone": 3,
+                "base": 3,
+                "longitude": 170.34524006943616
+              },
+              "Mercury": {
+                "planet": "Mercury",
+                "gate": 16,
+                "line": 2,
+                "color": 4,
+                "tone": 1,
+                "base": 3,
+                "longitude": 67.16984015916375
+              },
+              "Venus": {
+                "planet": "Venus",
+                "gate": 12,
+                "line": 6,
+                "color": 6,
+                "tone": 1,
+                "base": 5,
+                "longitude": 88.11565093268985
+              },
+              "Mars": {
+                "planet": "Mars",
+                "gate": 49,
+                "line": 3,
+                "color": 1,
+                "tone": 2,
+                "base": 1,
+                "longitude": 320.7781443240922
+              },
+              "Jupiter": {
+                "planet": "Jupiter",
+                "gate": 2,
+                "line": 1,
+                "color": 5,
+                "tone": 5,
+                "base": 5,
+                "longitude": 44.00457867287258
+              },
+              "Saturn": {
+                "planet": "Saturn",
+                "gate": 10,
+                "line": 5,
+                "color": 1,
+                "tone": 1,
+                "base": 2,
+                "longitude": 272.0066712454054
+              },
+              "Uranus": {
+                "planet": "Uranus",
+                "gate": 10,
+                "line": 3,
+                "color": 3,
+                "tone": 4,
+                "base": 2,
+                "longitude": 270.52354185283264
+              },
+              "Neptune": {
+                "planet": "Neptune",
+                "gate": 38,
+                "line": 1,
+                "color": 4,
+                "tone": 1,
+                "base": 1,
+                "longitude": 279.96959769017417
+              },
+              "Pluto": {
+                "planet": "Pluto",
+                "gate": 44,
+                "line": 4,
+                "color": 4,
+                "tone": 3,
+                "base": 4,
+                "longitude": 220.97428971176373
+              }
+            },
+            "centers": {
+              "Head": {
+                "name": "Head",
+                "state": "defined",
+                "hangingGates": [
+                  64,
+                  63
+                ],
+                "definedChannels": [
+                  "64-47 Abstraction",
+                  "63-4 Logic"
+                ]
+              },
+              "Ajna": {
+                "name": "Ajna",
+                "state": "defined",
+                "hangingGates": [
+                  47,
+                  4,
+                  11,
+                  17
+                ],
+                "definedChannels": [
+                  "64-47 Abstraction",
+                  "63-4 Logic"
+                ]
+              },
+              "Throat": {
+                "name": "Throat",
+                "state": "defined",
+                "hangingGates": [
+                  12,
+                  16,
+                  20
+                ],
+                "definedChannels": [
+                  "20-10 Awakening",
+                  "12-22 Openness"
+                ]
+              },
+              "G": {
+                "name": "G",
+                "state": "defined",
+                "hangingGates": [
+                  7,
+                  1,
+                  13,
+                  15,
+                  10,
+                  2
+                ],
+                "definedChannels": [
+                  "20-10 Awakening"
+                ]
+              },
+              "Ego": {
+                "name": "Ego",
+                "state": "open",
+                "hangingGates": [],
+                "definedChannels": []
+              },
+              "Sacral": {
+                "name": "Sacral",
+                "state": "open",
+                "hangingGates": [],
+                "definedChannels": []
+              },
+              "Solar Plexus": {
+                "name": "Solar Plexus",
+                "state": "defined",
+                "hangingGates": [
+                  22,
+                  49
+                ],
+                "definedChannels": [
+                  "12-22 Openness"
+                ]
+              },
+              "Spleen": {
+                "name": "Spleen",
+                "state": "undefined",
+                "hangingGates": [
+                  44
+                ],
+                "definedChannels": []
+              },
+              "Root": {
+                "name": "Root",
+                "state": "undefined",
+                "hangingGates": [
+                  52,
+                  58,
+                  38
+                ],
+                "definedChannels": []
+              }
+            },
+            "definedCenters": [
+              "Head",
+              "Ajna",
+              "Throat",
+              "G",
+              "Solar Plexus"
+            ],
+            "undefinedCenters": [
+              "Ego",
+              "Sacral",
+              "Spleen",
+              "Root"
+            ]
+          },
+          "geneKeys": {
+            "lifesWork": {
+              "name": "Life's Work / Genius",
+              "keyNumber": 7,
+              "line": 4,
+              "sequence": "activation",
+              "description": "Your core creative expression, conscious gifts, and primary contribution to the world."
+            },
+            "evolution": {
+              "name": "Evolution",
+              "keyNumber": 13,
+              "line": 4,
+              "sequence": "activation",
+              "description": "Your greatest challenge, shadow trigger, and soil for spiritual growth and maturity."
+            },
+            "radiance": {
+              "name": "Radiance",
+              "keyNumber": 2,
+              "line": 6,
+              "sequence": "activation",
+              "description": "Your physical health, bodily vitality, aura radiance, and inner grounding."
+            },
+            "purpose": {
+              "name": "Purpose",
+              "keyNumber": 1,
+              "line": 6,
+              "sequence": "activation",
+              "description": "Your deep soul stability, ancestral frequency, and ultimate physical embodiment."
+            },
+            "attraction": {
+              "name": "Attraction",
+              "keyNumber": 13,
+              "line": 3,
+              "sequence": "venus",
+              "description": "The physical aura field that draws specific relationships, karmic ties, and lessons to you."
+            },
+            "iq": {
+              "name": "IQ (Mental Mind)",
+              "keyNumber": 15,
+              "line": 3,
+              "sequence": "venus",
+              "description": "Mental defensive strategies formed between ages 14-21 and how your mind learns surrender."
+            },
+            "eq": {
+              "name": "EQ (Emotional Mind)",
+              "keyNumber": 17,
+              "line": 5,
+              "sequence": "venus",
+              "description": "Emotional patterns and reactivity formed between ages 7-14 and your open-hearted presence."
+            },
+            "sq": {
+              "name": "SQ (Spiritual Mind)",
+              "keyNumber": 12,
+              "line": 6,
+              "sequence": "venus",
+              "description": "Core soul innocence formed during first 7 years of life and your link to the divine child."
+            },
+            "coreWound": {
+              "name": "Core Wound / Vocation",
+              "keyNumber": 49,
+              "line": 3,
+              "sequence": "venus",
+              "description": "The collective human wound you carry, which becomes your ultimate gift to humanity."
+            },
+            "vocation": {
+              "name": "Vocation",
+              "keyNumber": 49,
+              "line": 3,
+              "sequence": "pearl",
+              "description": "How your Core Wound turns into your unique service, vocation, and creative impact."
+            },
+            "culture": {
+              "name": "Culture",
+              "keyNumber": 2,
+              "line": 1,
+              "sequence": "pearl",
+              "description": "Your natural role in groups, community alignment, and social network synergy."
+            },
+            "brand": {
+              "name": "Brand / Expression",
+              "keyNumber": 7,
+              "line": 4,
+              "sequence": "pearl",
+              "description": "The authentic frequency you broadcast outwardly that attracts alignment and resources."
+            },
+            "pearl": {
+              "name": "The Pearl",
+              "keyNumber": 20,
+              "line": 3,
+              "sequence": "pearl",
+              "description": "The harvest of your soul journey, true prosperity, and effortless flow of abundance."
+            }
+          },
+          "aura": {
+            "color": "Blue",
+            "hex": "#3b82f6",
+            "frequency": 741,
+            "consciousnessScale": 304
+          }
+        }
+      },
+      "ambiHistory": [
+        {
+          "id": "9fc778e6-c9da-41fb-a184-5908c4527d97",
+          "userId": "manager-master-id-8888",
+          "userEmail": "manager@affinity.ai",
+          "isGuest": false,
+          "testTitle": "AMBI Quick Calibration",
+          "mode": "quick",
+          "scores": {
+            "O": 92,
+            "C": 85,
+            "E": 70,
+            "A": 88,
+            "N": 80
+          },
+          "answers": {
+            "1": 5,
+            "2": 4,
+            "3": 5,
+            "4": 4,
+            "5": 4
+          },
+          "profileName": "Affinity Manager",
+          "profileDob": "1988-08-08",
+          "date": "2026-10-27T05:33:50.814Z"
+        }
+      ],
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "4120c398-526e-488b-aae5-af169d33af05",
+      "email": "guest-198698@affinity.local",
+      "isGuest": true,
+      "token": "0e5e1e899a1b5542b32d79a0bd2773d0b7837ff302709b20d188b56b8af6d34b",
+      "profile": {
+        "firstName": "john",
+        "lastName": "smith",
+        "dateOfBirth": "1991-05-25",
+        "timeOfBirth": "12:20",
+        "placeOfBirth": "Denver,co",
+        "computed": {
+          "numerology": {
+            "lifePath": 5,
+            "expression": 8,
+            "soulUrge": 6,
+            "personality": 11,
+            "birthday": 7
+          },
+          "astrology": {
+            "sunSign": "Gemini",
+            "risingSign": "Virgo",
+            "moonSign": "Scorpio",
+            "dominantPlanet": "Mercury",
+            "northNode": "Capricorn",
+            "chineseZodiac": "Goat",
+            "chineseElement": "Metal"
+          },
+          "humanDesign": {
+            "type": "Manifesting Generator",
+            "authority": "Solar Plexus",
+            "profile": "5/1",
+            "definitionType": "Quadruple Split",
+            "channels": [
+              "61-24 Awareness",
+              "20-34 Charisma",
+              "40-37 Community",
+              "37-40 Community",
+              "28-38 Struggle"
+            ],
+            "personalityGates": [
+              20,
+              34,
+              28,
+              61,
+              62,
+              24,
+              53,
+              56,
+              33,
+              41,
+              38,
+              54,
+              1
+            ],
+            "designGates": [
+              37,
+              40,
+              53,
+              61,
+              62,
+              55,
+              25,
+              35,
+              31,
+              60,
+              38,
+              54,
+              43
+            ],
+            "personalityPositions": {
+              "Sun": {
+                "planet": "Sun",
+                "gate": 20,
+                "line": 5,
+                "color": 2,
+                "tone": 1,
+                "base": 4,
+                "longitude": 64.04725074941643
+              },
+              "Earth": {
+                "planet": "Earth",
+                "gate": 34,
+                "line": 5,
+                "color": 2,
+                "tone": 1,
+                "base": 4,
+                "longitude": 244.04725074941643
+              },
+              "Moon": {
+                "planet": "Moon",
+                "gate": 28,
+                "line": 2,
+                "color": 4,
+                "tone": 1,
+                "base": 2,
+                "longitude": 213.41580541704002
+              },
+              "North Node": {
+                "planet": "North Node",
+                "gate": 61,
+                "line": 1,
+                "color": 5,
+                "tone": 4,
+                "base": 3,
+                "longitude": 291.4642290007919
+              },
+              "South Node": {
+                "planet": "South Node",
+                "gate": 62,
+                "line": 1,
+                "color": 5,
+                "tone": 4,
+                "base": 3,
+                "longitude": 111.46422900079187
+              },
+              "Mercury": {
+                "planet": "Mercury",
+                "gate": 24,
+                "line": 5,
+                "color": 3,
+                "tone": 2,
+                "base": 3,
+                "longitude": 41.726324011057386
+              },
+              "Venus": {
+                "planet": "Venus",
+                "gate": 53,
+                "line": 4,
+                "color": 6,
+                "tone": 5,
+                "base": 4,
+                "longitude": 108.83892278721765
+              },
+              "Mars": {
+                "planet": "Mars",
+                "gate": 56,
+                "line": 4,
+                "color": 5,
+                "tone": 2,
+                "base": 5,
+                "longitude": 119.86150485595334
+              },
+              "Jupiter": {
+                "planet": "Jupiter",
+                "gate": 33,
+                "line": 1,
+                "color": 3,
+                "tone": 1,
+                "base": 2,
+                "longitude": 127.94693262890797
+              },
+              "Saturn": {
+                "planet": "Saturn",
+                "gate": 41,
+                "line": 5,
+                "color": 6,
+                "tone": 3,
+                "base": 3,
+                "longitude": 306.59476622472494
+              },
+              "Uranus": {
+                "planet": "Uranus",
+                "gate": 38,
+                "line": 4,
+                "color": 6,
+                "tone": 5,
+                "base": 5,
+                "longitude": 283.22375002031947
+              },
+              "Neptune": {
+                "planet": "Neptune",
+                "gate": 54,
+                "line": 2,
+                "color": 3,
+                "tone": 1,
+                "base": 4,
+                "longitude": 286.3915621191102
+              },
+              "Pluto": {
+                "planet": "Pluto",
+                "gate": 1,
+                "line": 6,
+                "color": 5,
+                "tone": 1,
+                "base": 2,
+                "longitude": 228.5691297010983
+              }
+            },
+            "designPositions": {
+              "Sun": {
+                "planet": "Sun",
+                "gate": 37,
+                "line": 1,
+                "color": 2,
+                "tone": 6,
+                "base": 3,
+                "longitude": 336.04725074339603
+              },
+              "Earth": {
+                "planet": "Earth",
+                "gate": 40,
+                "line": 1,
+                "color": 2,
+                "tone": 6,
+                "base": 3,
+                "longitude": 156.04725074339603
+              },
+              "Moon": {
+                "planet": "Moon",
+                "gate": 53,
+                "line": 4,
+                "color": 5,
+                "tone": 1,
+                "base": 2,
+                "longitude": 108.5706871466619
+              },
+              "North Node": {
+                "planet": "North Node",
+                "gate": 61,
+                "line": 6,
+                "color": 5,
+                "tone": 6,
+                "base": 4,
+                "longitude": 296.2088294326014
+              },
+              "South Node": {
+                "planet": "South Node",
+                "gate": 62,
+                "line": 6,
+                "color": 5,
+                "tone": 6,
+                "base": 4,
+                "longitude": 116.20882943260142
+              },
+              "Mercury": {
+                "planet": "Mercury",
+                "gate": 55,
+                "line": 2,
+                "color": 6,
+                "tone": 4,
+                "base": 4,
+                "longitude": 331.9420553991048
+              },
+              "Venus": {
+                "planet": "Venus",
+                "gate": 25,
+                "line": 6,
+                "color": 2,
+                "tone": 2,
+                "base": 4,
+                "longitude": 3.139073172006192
+              },
+              "Mars": {
+                "planet": "Mars",
+                "gate": 35,
+                "line": 1,
+                "color": 1,
+                "tone": 4,
+                "base": 3,
+                "longitude": 71.4653338111467
+              },
+              "Jupiter": {
+                "planet": "Jupiter",
+                "gate": 31,
+                "line": 4,
+                "color": 1,
+                "tone": 5,
+                "base": 3,
+                "longitude": 124.93033698842731
+              },
+              "Saturn": {
+                "planet": "Saturn",
+                "gate": 60,
+                "line": 6,
+                "color": 6,
+                "tone": 6,
+                "base": 4,
+                "longitude": 301.9942151872756
+              },
+              "Uranus": {
+                "planet": "Uranus",
+                "gate": 38,
+                "line": 4,
+                "color": 3,
+                "tone": 4,
+                "base": 1,
+                "longitude": 282.7033635046223
+              },
+              "Neptune": {
+                "planet": "Neptune",
+                "gate": 54,
+                "line": 1,
+                "color": 6,
+                "tone": 5,
+                "base": 5,
+                "longitude": 286.03284811412937
+              },
+              "Pluto": {
+                "planet": "Pluto",
+                "gate": 43,
+                "line": 2,
+                "color": 4,
+                "tone": 5,
+                "base": 3,
+                "longitude": 230.39941830341104
+              }
+            },
+            "centers": {
+              "Head": {
+                "name": "Head",
+                "state": "defined",
+                "hangingGates": [
+                  61
+                ],
+                "definedChannels": [
+                  "61-24 Awareness"
+                ]
+              },
+              "Ajna": {
+                "name": "Ajna",
+                "state": "defined",
+                "hangingGates": [
+                  24,
+                  43
+                ],
+                "definedChannels": [
+                  "61-24 Awareness"
+                ]
+              },
+              "Throat": {
+                "name": "Throat",
+                "state": "defined",
+                "hangingGates": [
+                  62,
+                  56,
+                  31,
+                  33,
+                  35,
+                  20
+                ],
+                "definedChannels": [
+                  "20-34 Charisma"
+                ]
+              },
+              "G": {
+                "name": "G",
+                "state": "undefined",
+                "hangingGates": [
+                  1,
+                  25
+                ],
+                "definedChannels": []
+              },
+              "Ego": {
+                "name": "Ego",
+                "state": "defined",
+                "hangingGates": [
+                  40
+                ],
+                "definedChannels": [
+                  "40-37 Community",
+                  "37-40 Community"
+                ]
+              },
+              "Sacral": {
+                "name": "Sacral",
+                "state": "defined",
+                "hangingGates": [
+                  34
+                ],
+                "definedChannels": [
+                  "20-34 Charisma"
+                ]
+              },
+              "Solar Plexus": {
+                "name": "Solar Plexus",
+                "state": "defined",
+                "hangingGates": [
+                  37,
+                  55
+                ],
+                "definedChannels": [
+                  "40-37 Community",
+                  "37-40 Community"
+                ]
+              },
+              "Spleen": {
+                "name": "Spleen",
+                "state": "defined",
+                "hangingGates": [
+                  28
+                ],
+                "definedChannels": [
+                  "28-38 Struggle"
+                ]
+              },
+              "Root": {
+                "name": "Root",
+                "state": "defined",
+                "hangingGates": [
+                  53,
+                  60,
+                  41,
+                  38,
+                  54
+                ],
+                "definedChannels": [
+                  "28-38 Struggle"
+                ]
+              }
+            },
+            "definedCenters": [
+              "Head",
+              "Ajna",
+              "Throat",
+              "Ego",
+              "Sacral",
+              "Solar Plexus",
+              "Spleen",
+              "Root"
+            ],
+            "undefinedCenters": [
+              "G"
+            ]
+          },
+          "geneKeys": {
+            "lifesWork": {
+              "name": "Life's Work / Genius",
+              "keyNumber": 20,
+              "line": 5,
+              "sequence": "activation",
+              "description": "Your core creative expression, conscious gifts, and primary contribution to the world."
+            },
+            "evolution": {
+              "name": "Evolution",
+              "keyNumber": 34,
+              "line": 5,
+              "sequence": "activation",
+              "description": "Your greatest challenge, shadow trigger, and soil for spiritual growth and maturity."
+            },
+            "radiance": {
+              "name": "Radiance",
+              "keyNumber": 37,
+              "line": 1,
+              "sequence": "activation",
+              "description": "Your physical health, bodily vitality, aura radiance, and inner grounding."
+            },
+            "purpose": {
+              "name": "Purpose",
+              "keyNumber": 40,
+              "line": 1,
+              "sequence": "activation",
+              "description": "Your deep soul stability, ancestral frequency, and ultimate physical embodiment."
+            },
+            "attraction": {
+              "name": "Attraction",
+              "keyNumber": 53,
+              "line": 4,
+              "sequence": "venus",
+              "description": "The physical aura field that draws specific relationships, karmic ties, and lessons to you."
+            },
+            "iq": {
+              "name": "IQ (Mental Mind)",
+              "keyNumber": 53,
+              "line": 4,
+              "sequence": "venus",
+              "description": "Mental defensive strategies formed between ages 14-21 and how your mind learns surrender."
+            },
+            "eq": {
+              "name": "EQ (Emotional Mind)",
+              "keyNumber": 56,
+              "line": 4,
+              "sequence": "venus",
+              "description": "Emotional patterns and reactivity formed between ages 7-14 and your open-hearted presence."
+            },
+            "sq": {
+              "name": "SQ (Spiritual Mind)",
+              "keyNumber": 25,
+              "line": 6,
+              "sequence": "venus",
+              "description": "Core soul innocence formed during first 7 years of life and your link to the divine child."
+            },
+            "coreWound": {
+              "name": "Core Wound / Vocation",
+              "keyNumber": 35,
+              "line": 1,
+              "sequence": "venus",
+              "description": "The collective human wound you carry, which becomes your ultimate gift to humanity."
+            },
+            "vocation": {
+              "name": "Vocation",
+              "keyNumber": 35,
+              "line": 1,
+              "sequence": "pearl",
+              "description": "How your Core Wound turns into your unique service, vocation, and creative impact."
+            },
+            "culture": {
+              "name": "Culture",
+              "keyNumber": 31,
+              "line": 4,
+              "sequence": "pearl",
+              "description": "Your natural role in groups, community alignment, and social network synergy."
+            },
+            "brand": {
+              "name": "Brand / Expression",
+              "keyNumber": 20,
+              "line": 5,
+              "sequence": "pearl",
+              "description": "The authentic frequency you broadcast outwardly that attracts alignment and resources."
+            },
+            "pearl": {
+              "name": "The Pearl",
+              "keyNumber": 33,
+              "line": 1,
+              "sequence": "pearl",
+              "description": "The harvest of your soul journey, true prosperity, and effortless flow of abundance."
+            }
+          },
+          "aura": {
+            "color": "Yellow",
+            "hex": "#fbbf24",
+            "frequency": 528,
+            "consciousnessScale": 691
+          }
+        }
+      },
+      "ambiHistory": [],
+      "createdAt": "2026-10-27T05:07:01.938Z"
+    },
+    {
+      "id": "cecbc84c-af9a-4436-b12e-fee8029837fa",
+      "email": "guest-0A865A@affinity.local",
+      "isGuest": true,
+      "role": "user",
+      "token": "b6884672270065bed0f7bb372bb77feedfb4108c7d1eeea0ae50a60cde4711de",
+      "profile": null,
+      "ambiHistory": [],
+      "createdAt": "2026-10-27T07:14:17.772Z"
+    },
+    {
+      "id": "86311779-d6b8-46db-a21e-7e3ee7db10e9",
+      "email": "testseeker@example.com",
+      "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "role": "user",
+      "token": "e094383bc60872e5e3fde6ba65a197c07964cf1e65694e1fd16239c70bad0168",
+      "profile": null,
+      "ambiHistory": [],
+      "mbtiHistory": [],
+      "createdAt": "2026-10-27T07:14:30.569Z"
+    }
+  ],
+  "guestSubjects": [],
+  "tests": [
+    {
+      "id": "9fc778e6-c9da-41fb-a184-5908c4527d97",
+      "userId": "manager-master-id-8888",
+      "userEmail": "manager@affinity.ai",
+      "isGuest": false,
+      "testTitle": "AMBI Quick Calibration",
+      "mode": "quick",
+      "scores": {
+        "O": 92,
+        "C": 85,
+        "E": 70,
+        "A": 88,
+        "N": 80
+      },
+      "answers": {
+        "1": 5,
+        "2": 4,
+        "3": 5,
+        "4": 4,
+        "5": 4
+      },
+      "profileName": "Affinity Manager",
+      "profileDob": "1988-08-08",
+      "date": "2026-10-27T05:33:50.814Z"
+    }
+  ],
+  "mbtiTests": [],
+  "communityPosts": [
+    {
+      "id": "post-seed-1",
+      "authorId": "manager-master-id-8888",
+      "authorName": "Affinity Oracle Guide",
+      "authorRole": "manager",
+      "authorSignature": "Life Path 8 • Manifesting Generator 4/6 • INFJ",
+      "category": "deconditioning",
+      "categoryLabel": "Deconditioning & Self-Growth",
+      "title": "The Architecture of Fulfillment: Stepping off the Societal Treadmill",
+      "content": "True contentment does not arrive when the ego completes its endless checklist of external milestones. Fulfillment occurs in the stillness of Point Zero—when you realize that your defined centers are your sovereign radio towers, and your undefined centers are simply cosmic sensors, not deficiencies to be 'fixed'. How have you noticed your conditioning shifting as you study your blueprint?",
+      "tags": [
+        "PointZero",
+        "Deconditioning",
+        "InnerPeace",
+        "HumanDesign"
+      ],
+      "likes": 24,
+      "likedBy": [],
+      "comments": [
+        {
+          "id": "comm-seed-1-1",
+          "authorId": "user-seed-sarah",
+          "authorName": "Sarah M.",
+          "authorSignature": "Life Path 7 • Projector 2/4 • INFP",
+          "content": "Realizing my undefined Solar Plexus was absorbing everyone else's emotional storm changed my entire nervous system. I now give myself permission to retreat into quiet without guilt.",
+          "createdAt": "2026-03-01T14:22:00.000Z"
+        }
+      ],
+      "createdAt": "2026-03-01T10:00:00.000Z"
+    },
+    {
+      "id": "post-seed-2",
+      "authorId": "user-seed-leo",
+      "authorName": "Leo Thorne",
+      "authorRole": "user",
+      "authorSignature": "Life Path 11 • Manifestor 5/1 • INTJ",
+      "category": "psychometrics",
+      "categoryLabel": "Psychometrics & Myers-Briggs",
+      "title": "How INTJ Cognitive Stacks (Ni-Te) Synthesize with High AMBI Openness",
+      "content": "I took both the AMBI 181 Master Assessment and the Myers-Briggs assessment here. My Openness to Experience scored 94% and my Introverted Intuition (Ni) is dominant. The synthesis explains why traditional corporate strategy felt suffocating—I needed metaphysical systemic architecture. What insights did your MBTI + AMBI scores reveal about your creative flow?",
+      "tags": [
+        "MyersBriggs",
+        "INTJ",
+        "CognitiveFunctions",
+        "AMBI"
+      ],
+      "likes": 18,
+      "likedBy": [],
+      "comments": [
+        {
+          "id": "comm-seed-2-1",
+          "authorId": "user-seed-elena",
+          "authorName": "Elena Rostova",
+          "authorSignature": "Life Path 3 • Generator 3/5 • ENFP",
+          "content": "As an ENFP with high Extraversion and Ne dominant, partnering with an INTJ creates the most electrifying brainstorms! We balance imagination with grounded structure.",
+          "createdAt": "2026-03-02T09:15:00.000Z"
+        }
+      ],
+      "createdAt": "2026-03-01T18:30:00.000Z"
+    },
+    {
+      "id": "post-seed-3",
+      "authorId": "user-seed-elena",
+      "authorName": "Elena Rostova",
+      "authorRole": "user",
+      "authorSignature": "Life Path 3 • Generator 3/5 • ENFP",
+      "category": "synastry",
+      "categoryLabel": "Synastry & Relationships",
+      "title": "Using the Compare Charts Feature to Navigate Fighting Styles and Longevity",
+      "content": "My partner and I ran our synastry report yesterday. Our Defined G-Center and Open Heart center highlighted an exact trigger where we were projecting worthiness issues. The cheat sheet with exact de-escalation scripts defused an argument in under 5 minutes. Highly recommend comparing your profile with your closest friends and partners!",
+      "tags": [
+        "CompareCharts",
+        "Synastry",
+        "FightingStyles",
+        "Longevity"
+      ],
+      "likes": 31,
+      "likedBy": [],
+      "comments": [],
+      "createdAt": "2026-03-02T12:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+.font-script {
+  font-family: 'Alex Brush', cursive;
+}
+
+.font-brand-sub {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0.28em;
+}
+
+body {
+  background-color: #060913;
+  color: rgba(255, 255, 255, 0.92);
+  font-family: var(--font-sans);
+  background-image: 
+    radial-gradient(circle at 15% 15%, rgba(0, 229, 255, 0.12) 0%, transparent 45%),
+    radial-gradient(circle at 85% 80%, rgba(20, 184, 166, 0.14) 0%, transparent 50%),
+    radial-gradient(circle at 50% 35%, rgba(0, 196, 204, 0.08) 0%, transparent 60%),
+    radial-gradient(circle at 70% 20%, rgba(13, 148, 136, 0.1) 0%, transparent 40%),
+    radial-gradient(2px 2px at 20px 30px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 40px 70px, #2dd4bf, rgba(0,0,0,0)),
+    radial-gradient(1px 1px at 90px 40px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 160px 120px, #99f6e4, rgba(0,0,0,0)),
+    radial-gradient(1.5px 1.5px at 230px 190px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 300px 80px, #00e5ff, rgba(0,0,0,0));
+  background-repeat: repeat;
+  background-size: cover, cover, cover, cover, 350px 350px, 350px 350px, 350px 350px, 350px 350px, 350px 350px, 350px 350px;
+  background-attachment: fixed;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Galaxy Twinkle Effect */
+@keyframes galaxyTwinkle {
+  0%, 100% { opacity: 0.8; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.02); }
+}
+
+.galaxy-bg-glow {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background: 
+    radial-gradient(circle at 20% 30%, rgba(0, 229, 255, 0.07) 0%, transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(20, 184, 166, 0.09) 0%, transparent 45%),
+    radial-gradient(circle at 50% 90%, rgba(0, 196, 204, 0.06) 0%, transparent 50%);
+  animation: galaxyTwinkle 12s ease-in-out infinite alternate;
+}
+
+/* Custom premium scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(11, 15, 25, 0.8);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 196, 180, 0.2);
+  border-radius: 100px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 196, 180, 0.4);
+}
+
+/* Glass card design */
+.glass-card {
+  background: rgba(17, 24, 39, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.glass-card:hover {
+  border-color: rgba(0, 196, 180, 0.15);
+  box-shadow: 0 12px 40px 0 rgba(0, 196, 180, 0.04);
+}
+
+/* Luminous text style */
+.cosmic-text {
+  text-shadow: 0 0 15px rgba(0, 196, 180, 0.25);
+  font-family: var(--font-serif);
+}
+
+.gold-text {
+  background: linear-gradient(135deg, #fef08a 0%, #c8a96e 50%, #b45309 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Elara central orb */
+.elara-orb {
+  animation: float 6s ease-in-out infinite, pulse 3s ease-in-out infinite;
+  box-shadow: 0 0 40px 10px rgba(0, 196, 180, 0.15);
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 40px 10px rgba(0, 196, 180, 0.15); }
+  50% { box-shadow: 0 0 50px 18px rgba(0, 196, 180, 0.3); }
+  100% { box-shadow: 0 0 40px 10px rgba(0, 196, 180, 0.15); }
+}
+
+/* Buttons and Inputs */
+.cosmic-btn {
+  background: linear-gradient(135deg, #00c4b4 0%, #008f83 100%);
+  color: #0b0f19;
+  font-weight: 500;
+  border-radius: 100px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 20px rgba(0, 196, 180, 0.2);
+  transition: all 0.2s ease-in-out;
+}
+.cosmic-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(0, 196, 180, 0.35);
+}
+.cosmic-btn:active:not(:disabled) {
+  transform: translateY(0);
+}
+.cosmic-btn:disabled {
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.3);
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
+.cosmic-btn-gold {
+  background: linear-gradient(135deg, #fef08a 0%, #c8a96e 100%);
+  color: #0b0f19;
+  font-weight: 500;
+  border-radius: 100px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 20px rgba(200, 169, 110, 0.2);
+  transition: all 0.2s ease-in-out;
+}
+.cosmic-btn-gold:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(200, 169, 110, 0.35);
+}
+.cosmic-btn-gold:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.cosmic-input {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+  border-radius: 12px;
+  padding: 12px 16px;
+  outline: none;
+  transition: all 0.2s ease-in-out;
+}
+.cosmic-input:focus {
+  border-color: #00c4b4;
+  background: rgba(255, 255, 255, 0.07);
+  box-shadow: 0 0 12px rgba(0, 196, 180, 0.15);
+}
+
+/* Animations helper */
+.slide-in {
+  animation: slideIn 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Markdown styling inside Chat with Elara */
+.markdown-body {
+  font-size: 0.92rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.88);
+}
+.markdown-body h3 {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  color: #7dd3f0;
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
+  font-weight: 500;
+}
+.markdown-body h4 {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  color: #c8a96e;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+  font-weight: 500;
+}
+.markdown-body p {
+  margin-bottom: 0.8rem;
+}
+.markdown-body ul, .markdown-body ol {
+  margin-bottom: 0.8rem;
+  padding-left: 1.2rem;
+  list-style-type: disc;
+}
+.markdown-body li {
+  margin-bottom: 0.4rem;
+}
+.markdown-body strong {
+  color: #00c4b4;
+  font-weight: 600;
+}
+.markdown-body code {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  background: rgba(255, 255, 255, 0.08);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+.markdown-body blockquote {
+  border-left: 3px solid #00c4b4;
+  padding-left: 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.65);
+}

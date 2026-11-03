@@ -1,0 +1,88 @@
+{
+  "entities": {
+    "user": {
+      "title": "User Profile",
+      "description": "User account and sovereign spiritual/psychometric profile",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "username": { "type": "string" },
+        "role": { "type": "string", "enum": ["user", "manager"] },
+        "firstName": { "type": "string" },
+        "lastName": { "type": "string" },
+        "dateOfBirth": { "type": "string" },
+        "timeOfBirth": { "type": "string" },
+        "placeOfBirth": { "type": "string" },
+        "mbtiType": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "email", "role"]
+    },
+    "testRecord": {
+      "title": "Test Assessment Record",
+      "description": "Completed AMBI or MBTI psychometric examination record",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "mode": { "type": "string" },
+        "scores": { "type": "object" },
+        "answers": { "type": "object" },
+        "date": { "type": "string" }
+      },
+      "required": ["id", "userId", "mode", "date"]
+    },
+    "guestSubject": {
+      "title": "Guest Subject",
+      "description": "Secondary client or partner profile for comparison and chart analysis",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "firstName": { "type": "string" },
+        "lastName": { "type": "string" },
+        "dateOfBirth": { "type": "string" },
+        "timeOfBirth": { "type": "string" },
+        "placeOfBirth": { "type": "string" },
+        "createdBy": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "firstName", "dateOfBirth"]
+    },
+    "communityPost": {
+      "title": "Community Sanctuary Post",
+      "description": "Forum discussion post on self-growth and relationship dynamics",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "authorId": { "type": "string" },
+        "authorName": { "type": "string" },
+        "authorSignature": { "type": "string" },
+        "category": { "type": "string" },
+        "title": { "type": "string" },
+        "content": { "type": "string" },
+        "likes": { "type": "number" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "authorId", "authorName", "title", "content"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "user",
+      "description": "User sovereign profile and credentials"
+    },
+    "/users/{userId}/tests/{testId}": {
+      "schema": "testRecord",
+      "description": "Psychometric test examination history"
+    },
+    "/guestSubjects/{subjectId}": {
+      "schema": "guestSubject",
+      "description": "Guest and client profiles for comparison and consultation"
+    },
+    "/communityPosts/{postId}": {
+      "schema": "communityPost",
+      "description": "Public community discussion posts"
+    }
+  }
+}
